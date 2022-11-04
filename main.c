@@ -1,4 +1,7 @@
 #inlude<stdio.h>
 void main(void){
-	printf("Hello World");
+	func();
+}
+void func(){
+	printf("helloworld");
 }
